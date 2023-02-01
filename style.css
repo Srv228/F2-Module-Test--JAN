@@ -1,0 +1,76 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1580541832626-2a7131ee809f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1777&q=80");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    color: whitesmoke;
+    padding-top: 10px;
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-align: center;
+}
+.primary{
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.space{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+.image{
+    height: 250px;
+    width: 300px;
+}
+.instruction{
+    font-size: xx-large;
+    text-align: center;
+}
+.show-space{
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.hide{
+    display: none;
+}
+.inp{
+    height: 35px;
+    width: 400px;
+}
+.subDiv{
+    background-color: white;
+    padding: 50px;
+}
+.par{
+    font-size: x-large;
+    font-weight: bold;
+}
+.main{
+    height: 200px;
+    width: 200px;
+}
+.common{
+    font-size: x-large;
+    color: green;
+    font-weight: bold;
+}
+.rolling{
+    font-size: x-large;
+    font-weight: bold;
+}
+.token{
+    font-size: x-large;
+    font-weight: bold;
+}
+.congo{
+    height: 200px;
+    width: 400px;
+}
